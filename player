@@ -1,0 +1,159 @@
+<!-- Página em Cache 08:51 -->
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<script type="text/javascript">document.addEventListener('contextmenu', event => event.preventDefault());</script>
+<title>narutoPROJECT NEW ||| Episódio online</title>
+<meta http-equiv="Content-Type" content="text/html; charset=gb18030">
+<meta name="robots" content="index, follow">
+<link rel="shortcut icon" href="assets/images/favicon1.png" type="image/x-icon" />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.0/sweetalert.min.js"></script>
+    <script type="text/javascript" src="https://ssl.p.jwpcdn.com/player/v/8.8.2/jwplayer.js"></script>
+    <script type="text/javascript">jwplayer.key="64HPbvSQorQcd52B8XFuhMtEoitbvY/EXJmMBfKcXZQU2Rnn";</script>
+<script>
+<!--
+document.write(unescape("%3Cstyle%20type%3D%22text/css%22%20media%3D%22all%22%3E%0A%20%20%20%20%20%20%20%20html%2Cbody%7Bpadding%3A0%3Bmargin%3A0%3Bheight%3A100%25%7D%0A%0A%20%20%20%20%20%20%20.jw-reset%20.jw-button-container%20div.jw-icon-rewind%20%7B%0A%20%20%20%20display%3A%20none%3B%7D%0A%20%20%20%20.jw-preview.jw-reset%7B%0Abackground-image%3A%20url%3C%3F%3D%24_GET%5B%27url%27%5D%3F%3E%20%20%21important%3B%0A%7D%0A%20%20%20%20%23animes-up%20%7B%0A%20%20%20%20position%3A%20absolute%3B%0A%20%20%20%20width%3A%20100%25%21important%3B%0A%20%20%20%20height%3A%20100%25%21important%3B%0A%20%20%20%20overflow%3Ahidden%3B%0A%20%20%20%20background-color%3A%23000%3B%0A%7D%0A._4vx4a%20%7B%0A%20%20%20%20color%3A%20%23fff%3B%0A%20%20%20%20min-height%3A%202px%3B%0A%20%20%20%20padding%3A%2011px%3B%0A%20%20%20%20margin%3A%204px%3B%0A%20%20%20%20width%3A%2060%25%3B%0A%20%20%20%20border-radius%3A%203px%3B%0A%20%20%20%20position%3A%20inherit%3B%0A%20%20%20%20background%3A%20%23292929%3B%0A%20%20%20%20margin-right%3A%20auto%3B%0A%20%20%20%20margin-left%3A%20auto%3B%0A%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20left%3A%2019%25%3B%0A%20%20%20%20top%3A%203%25%3B%0A%20%20%20%20border-radius%3A15px%3B%0A%0A%7D._4vx4a%20bt%20%7B%0A%20%20%20%20padding%3A%207px%3B%0A%20%20%20%20background%3A%20%23383838%3B%0A%20%20%20%20width%3A%20calc%28100%25%20/%202%20-%2010px%29%3B%0A%20%20%20%20clear%3A%20both%3B%0A%20%20%20%20display%3A%20inline-table%3B%0A%20%20%20%20margin%3A%205px%3B%0A%20%20%20%20border-radius%3A%204px%3B%0A%0A%7D._4vx4a%20p%20%7B%0A%20%20%20%20margin%3A%207px%3B%0A%7D%0A._4vx4a%20bt%3Ahover%20%7B%0A%20%20%20%20cursor%3A%20pointer%3B%0A%20%20%20%20background%3A%20%23504f4f%3B%0A%7D%0A._lol%20%7B%0A%20%20%20%20position%3A%20inherit%3B%0A%20%20%20%20background%3A%20rgb%280%2C0%2C0%2C0.2%29%3B%0A%20%20%20%20width%3A%209em%3B%0A%20%20%20%20padding%3A%209px%3B%0A%20%20%20%20border-radius%3A3px%3B%0A%20%20%20%20color%3A%20%23fff%3B%0A%20%20%20%20bottom%3A%205em%3B%0A%20%20%20%20right%3A%201em%3B%0A%20%20%20%20text-align%3A%20center%3B%0A%20%20%20%20border%3A%201px%20solid%20%23ffffff50%3B%0A%7D%0A._lol%3Ahover%20%7B%0A%20%20%20%20cursor%3A%20pointer%3B%0A%20%20%20%20background%3A%20%23c70000%3B%0A%20%20%20%20text-shadow%3A%200%200%204px%20%23fff%3B%0A%0A%7D%0A%3C/style%3E"));
+//-->
+</script>
+</head>
+<body>
+
+    <div id="animes-up"></div><script>
+
+            var player = jwplayer('animes-up');
+            player.setup({
+              sources: [
+                     {
+                        file: "https://videos.files.wordpress.com/IS6STOO6/animesup.biz-boruto-dublado-01.mp4",
+                        type: "video/mp4", label: "1080p",
+                    }
+              ],
+           aspectratio: '16:9',
+              cast: {},
+              startparam: "start" ,
+              primary: "html5",
+              autostart: false,
+              provider: "https://animesup.net/",
+              preload: true,
+              width: "100%",
+              height: "100%",
+              playbackRateControls: [0.5, 1.00, 1.25, 1.50, 2.00],
+              sharing: {heading: "Compartilhar"},
+              abouttext: "AnimesUp",
+              skin: {
+                    active: "#ff0808"
+                },
+              aboutlink: "https://animesup.net/",
+              image: "https://animesup.net/default.jpg",
+
+                     });
+(function() {
+    var playID = 'animes-up';
+    var incio_abertura = convert("");
+    var termino_abertura = convert("");
+    jwplayer().on('play', function() {
+        $("#" + playID + "").append('<div class="_lol">Pular abertura</div>');
+        $("._lol").hide();
+        $(document).on('click', '._lol', function() {
+            jwplayer().seek(termino_abertura / 1000);
+            $(this).hide();
+        });
+        jwplayer().on('time', function() {
+            var posição = convert(millisToMinutesAndSeconds(jwplayer().getPosition()));
+            if (posição >= incio_abertura && posição < termino_abertura) {
+                $("._lol").show();
+            }
+            if (posição > termino_abertura) {
+                $("._lol").hide();
+            }
+        });
+    });
+
+    function convert(time) {
+        var m = time.split(':')[0] * 60000;
+        var s = time.split(':')[1] * 1000;
+        return m + s;
+    }
+
+    function millisToMinutesAndSeconds(time) {
+        var ms = time;
+        var min = ms * 1 / 60;
+        var r = min % 1;
+        var sec = Math.floor(r * 60);
+        if (sec < 10) {
+            sec = '0' + sec;
+        }
+        min = Math.floor(min);
+        return min + ':' + sec;
+    }
+})();
+
+(function() {
+    var playID='animes-up';
+    var ID='78567-'
+    /* progress */
+    var currentPosition=localStorage.getItem(ID);
+    var lock=false;
+    jwplayer().on('play', function() {
+        if(lock==false) {
+            if(currentPosition && currentPosition > 0) {
+                jwplayer().pause();
+                var box='<div class="_4vx4a"><p>Continuar de onde parou? '+millisToMinutesAndSeconds(currentPosition)+'. Deseja continuar de onde parou? </p></div>';
+                $("#"+playID+"").append(box);
+                box='._4vx4a';
+                var bts='<bt data-time="'+currentPosition+'">Sim</bt><bt data-time="0">Não</bt>';
+                $(box).append(bts);
+                $(document).on('click', '._4vx4a > bt', function() {
+                    startIn=$(this).attr('data-time');
+                    $(box).remove();
+                    jwplayer().play();
+                    player.seek(startIn);
+                }
+                );
+            }
+        }
+        lock=true;
+    }
+    );
+    function millisToMinutesAndSeconds(time) {
+        var ms=time;
+        var min=ms * 1 / 60;
+        var r=min % 1;
+        var sec=Math.floor(r * 60);
+        if (sec < 10) {
+            sec='0'+sec;
+        }
+        min=Math.floor(min);
+        return min +':'+ sec;
+        /* parseInt() = numeric() */
+    }
+    jwplayer().on('play', function() {
+        function ping() {
+            if(!localStorage.getItem(ID)) {
+                localStorage.setItem(ID, jwplayer(playID).getPosition());
+            }
+            localStorage[ID]=jwplayer(playID).getPosition();
+            setTimeout(ping, 1000);
+        }
+        ping();
+    }
+    )
+}
+
+)();
+    </script>
+    <script>
+        player.addButton('<svg height="48" viewBox="0 0 48 48" width="48" xmlns="http://www.w3.org/2000/svg" class="jw-svg-icon"><path d="M38 22H22v11.99h16V22zm8 16V9.96C46 7.76 44.2 6 42 6H6C3.8 6 2 7.76 2 9.96V38c0 2.2 1.8 4 4 4h36c2.2 0 4-1.8 4-4zm-4 .04H6V9.94h36v28.1z"/><path d="M0 0h48v48H0V0z" fill="none"/></svg>',"Picture in Picture",function(){
+    var src = document.getElementsByClassName('jw-video'), fileSrc = src[0];
+    const video = fileSrc;
+    if (!document.pictureInPictureElement) {video.requestPictureInPicture().catch(error => {});}
+    else {document.exitPictureInPicture().catch(error => {});}},"pipPlayer");
+
+        player.addButton('<svg xmlns="http://www.w3.org/2000/svg" class="jw-svg-icon jw-svg-icon-rewind2" viewBox="0 0 240 240" focusable="false"><path d="m 25.993957,57.778 v 125.3 c 0.03604,2.63589 2.164107,4.76396 4.8,4.8 h 62.7 v -19.3 h -48.2 v -96.4 H 160.99396 v 19.3 c 0,5.3 3.6,7.2 8,4.3 l 41.8,-27.9 c 2.93574,-1.480087 4.13843,-5.04363 2.7,-8 -0.57502,-1.174985 -1.52502,-2.124979 -2.7,-2.7 l -41.8,-27.9 c -4.4,-2.9 -8,-1 -8,4.3 v 19.3 H 30.893957 c -2.689569,0.03972 -4.860275,2.210431 -4.9,4.9 z m 163.422413,73.04577 c -3.72072,-6.30626 -10.38421,-10.29683 -17.7,-10.6 -7.31579,0.30317 -13.97928,4.29374 -17.7,10.6 -8.60009,14.23525 -8.60009,32.06475 0,46.3 3.72072,6.30626 10.38421,10.29683 17.7,10.6 7.31579,-0.30317 13.97928,-4.29374 17.7,-10.6 8.60009,-14.23525 8.60009,-32.06475 0,-46.3 z m -17.7,47.2 c -7.8,0 -14.4,-11 -14.4,-24.1 0,-13.1 6.6,-24.1 14.4,-24.1 7.8,0 14.4,11 14.4,24.1 0,13.1 -6.5,24.1 -14.4,24.1 z m -47.77056,9.72863 v -51 l -4.8,4.8 -6.8,-6.8 13,-12.99999 c 3.02543,-3.03598 8.21053,-0.88605 8.2,3.4 v 62.69999 z"></path></svg>', 'Avan\xE7ar 10s', function() {player.seek(player.getPosition() + 10)
+}, 'Avan\xE7ar 10s');
+        player.addButton('<svg xmlns="http://www.w3.org/2000/svg" class="jw-svg-icon jw-svg-icon-rewind" viewBox="0 0 240 240" focusable="false"><path d="M113.2,131.078a21.589,21.589,0,0,0-17.7-10.6,21.589,21.589,0,0,0-17.7,10.6,44.769,44.769,0,0,0,0,46.3,21.589,21.589,0,0,0,17.7,10.6,21.589,21.589,0,0,0,17.7-10.6,44.769,44.769,0,0,0,0-46.3Zm-17.7,47.2c-7.8,0-14.4-11-14.4-24.1s6.6-24.1,14.4-24.1,14.4,11,14.4,24.1S103.4,178.278,95.5,178.278Zm-43.4,9.7v-51l-4.8,4.8-6.8-6.8,13-13a4.8,4.8,0,0,1,8.2,3.4v62.7l-9.6-.1Zm162-130.2v125.3a4.867,4.867,0,0,1-4.8,4.8H146.6v-19.3h48.2v-96.4H79.1v19.3c0,5.3-3.6,7.2-8,4.3l-41.8-27.9a6.013,6.013,0,0,1-2.7-8,5.887,5.887,0,0,1,2.7-2.7l41.8-27.9c4.4-2.9,8-1,8,4.3v19.3H209.2A4.974,4.974,0,0,1,214.1,57.778Z"></path></svg>', 'Voltar 10s', function() {player.seek(player.getPosition() - 10)
+}, 'Voltar 10s');
+    </script>
+</body>
+</html>
